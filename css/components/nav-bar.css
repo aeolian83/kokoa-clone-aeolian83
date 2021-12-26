@@ -21,12 +21,12 @@
     left: 15px;
     bottom: 15px;
 }
-.nav__red-dot {
+.inform__red-dot {
     width: 5px;
     height: 5px;
     border-radius: 50%;
     background-color: tomato;
-    position: relative;
+    position: absolute;
     left: 30px;
-    top: 5px;
+    top: -10px;
 }
